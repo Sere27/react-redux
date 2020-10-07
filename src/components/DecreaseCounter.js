@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
 
-export default class DecreaseCounter extends Component {
-   render() {
-      return (
-         <div>
-            
-         </div>
-      )
-   }
+export default class decreaseCounter extends Component {
+    render() {
+        return (
+            <div>
+                
+            </div>
+        )
+    }
 }
